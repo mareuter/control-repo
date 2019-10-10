@@ -9,3 +9,5 @@ mod 'puppet-yum', '4.0.0'
 mod 'puppetlabs-concat', '6.1.0'
 mod 'puppetlabs-yumrepo_core', '1.0.3'
 mod 'richardc-datacat', '0.6.2'
+mod 'mareuter-elk',
+  :git => 'https://github.com/mareuter/mareuter-elk.git'
