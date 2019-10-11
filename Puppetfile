@@ -11,3 +11,7 @@ mod 'puppetlabs-yumrepo_core', '1.0.3'
 mod 'richardc-datacat', '0.6.2'
 mod 'mareuter-elk',
   :git => 'https://github.com/mareuter/mareuter-elk.git'
+mod 'puppetlabs-puppetdb', '7.4.0'
+mod 'puppetlabs-inifile', '3.1.0'
+mod 'puppetlabs-postgresql', '6.2.0'
+mod 'puppetlabs-firewall', '2.1.0'
